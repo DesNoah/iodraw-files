@@ -4,8 +4,32 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-Vr6TBmGyvYVq3baS3L-1" target="b-Vr6TBmGyvYVq3baS3L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b-Vr6TBmGyvYVq3baS3L-1" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-2" value="创建规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-Vr6TBmGyvYVq3baS3L-5" target="b-Vr6TBmGyvYVq3baS3L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-5" value="职能中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-6" value="创建规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-Vr6TBmGyvYVq3baS3L-8" target="b-Vr6TBmGyvYVq3baS3L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-8" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-9" value="创建规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
