@@ -10,6 +10,12 @@
         <mxCell id="b-Vr6TBmGyvYVq3baS3L-1" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-Vr6TBmGyvYVq3baS3L-2" target="b-Vr6TBmGyvYVq3baS3L-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b-Vr6TBmGyvYVq3baS3L-2" target="b-Vr6TBmGyvYVq3baS3L-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b-Vr6TBmGyvYVq3baS3L-2" value="创建规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -31,7 +37,13 @@
         <mxCell id="b-Vr6TBmGyvYVq3baS3L-9" value="创建规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b-Vr6TBmGyvYVq3baS3L-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-10" value="O" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-11" value="G" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="135" y="380" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b-Vr6TBmGyvYVq3baS3L-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="470" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
